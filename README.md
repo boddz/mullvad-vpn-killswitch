@@ -8,12 +8,12 @@ Decided to upload it here as a mirror for when I deploy new VMs with it.
 
 ## Prerequisites
 
-Debian/ Ubuntu based Linux disto with bash for the shell.
+Debian/ Ubuntu based Linux distro with bash for the shell.
 
 Download the Mullvad VPN OpenVPN conf
 [here](https://mullvad.net/en/account/#/openvpn-config).
 
-Update the `user config variables` region inside of 'setup.bash'to match
+Update the `user config variables` region inside of 'setup.bash' to match
 your LAN subnet, and the VPN port, protocol and IPs (last three found in the
 Mullvad conf file).
 
